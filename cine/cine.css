@@ -1,0 +1,8 @@
+body{background-color: silver;}
+div{width: 600px; height: 300px; background-image: url(images/5402416_cinema_film_movie_reel_entertainment_icon.svg);
+background-repeat: repeat-x; border: 1px; background-color: skyblue;}
+h1{font-family: 'Signika', sans-serif; color: teal;}
+form{width: 80%;}
+input{margin-bottom: 5px; width: 200px; height: 30px;}
+button{width: 200px; height: 30px; background-color: #fff; border: 1px solid #333; margin-left: 500px;}
+footer{background-color: gray;}
